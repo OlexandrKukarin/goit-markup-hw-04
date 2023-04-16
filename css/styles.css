@@ -333,8 +333,8 @@ img {
 .cust-item:hover,
 .cust-items:focus,
 .cust-item:active {
-  border-color: var(--ocean);
-  color: var(--ocean);
+  border-color: #404bbf;
+  color: #404bbf;
 }
 
 /* footer */
