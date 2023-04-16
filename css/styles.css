@@ -337,6 +337,10 @@ img {
   border-color: var(--ocean);
 }
 
+.icon-cust:hover {
+  fill: currentColor;
+}
+
 /* footer */
 .foot {
   padding-top: 100px;
