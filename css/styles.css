@@ -333,12 +333,8 @@ img {
 .cust-item:hover,
 .cust-items:focus,
 .cust-item:active {
-  color: var(--ocean);
   border-color: var(--ocean);
-}
-
-.icon-cust:hover {
-  fill: currentColor;
+  color: var(--ocean);
 }
 
 /* footer */
