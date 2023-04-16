@@ -404,7 +404,6 @@ img {
 .social-bg-foot:focus {
   background-color: var(--green);
 }
-.fopt-icons
 
 /* PORTFOLIO */
 .section-port {
@@ -470,7 +469,9 @@ img {
 .shadow {
   display: block;
 }
-.shadow:hover {
+.shadow:hover,
+.shadow:focus,
+.shadow:active {
   display: block;
   box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08),
     0px 1px 1px rgba(46, 47, 66, 0.16), 0px 2px 1px rgba(46, 47, 66, 0.08);
