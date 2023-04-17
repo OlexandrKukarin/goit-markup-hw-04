@@ -324,16 +324,13 @@ img {
   border-radius: 4px;
   color: var(--light-slate);
 }
-.icon-cust {
-  width: 104px;
-  height: 56px;
-  fill: currentColor;
-}
-
 .cust-item:hover,
-.cust-items:focus, {
-  border-color: #404bbf;
-  color: #404bbf;
+.cust-item:focus {
+  border-color: var(--ocean);
+  color: var(--ocean);
+}
+.icon-cust {
+  fill: currentColor;
 }
 
 /* footer */
