@@ -331,8 +331,7 @@ img {
 }
 
 .cust-item:hover,
-.cust-items:focus,
-.cust-item:active {
+.cust-items:focus, {
   border-color: #404bbf;
   color: #404bbf;
 }
